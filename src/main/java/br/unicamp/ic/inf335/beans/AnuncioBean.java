@@ -19,7 +19,7 @@ public class AnuncioBean implements java.io.Serializable {
 	 */
 	private ArrayList<URL> fotosUrl;
 	/**
-	 * Fração de desconto sendo 0 (0%) e 1 (100%)
+	 * Fracao de desconto sendo 0 (0%) e 1 (100%)
 	 */
 	private Double desconto;
 	
